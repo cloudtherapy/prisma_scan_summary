@@ -1,0 +1,6 @@
+[prisma_cloud]
+api_key = <prisma_api_key>
+api_secret = <prisma_api_secret>
+api_url = https://api1.prismacloud.io/
+console_scan_results_url = <prisma_cloud_console_url>/api/v1/cloud-scan-rules
+console_agentless_progress_url = <prisma_cloud_console_url>/api/v1/agentless/progress
